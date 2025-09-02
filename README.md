@@ -10,7 +10,7 @@ This project develops an affordable, lightweight electronic navigation system de
 ## Hardware Setup
 
 <p align="center">
-  <img src="Labelled Front Image.jpg" alt="Image 1" width="45%"/>
+  <img src="Labelled Front Image.jpg" alt="Image 1" width="55%"/>
   <img src="HardwareConfiguration.jpg" alt="Image 2" width="45%"/>
 </p>
 
