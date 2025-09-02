@@ -6,7 +6,10 @@ This project develops an affordable, lightweight electronic navigation system de
 The device is shaped like a pair of eyeglasses and incorporates **ultrasonic sensors** and **vibration motors** to provide spatial awareness of obstacles.
 
 **Affordable Wearable Navigation Aid for the Visually Impaired**
-
+<p align="center">
+  <img src="Labelled After Wearing.jpg" alt="Image 1" width="45%"/>
+  <img src="Labelled Front Image.jpg" alt="Image 2" width="45%"/>
+</p>
 
 ---
 
