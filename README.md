@@ -9,18 +9,10 @@ This project develops an affordable, lightweight electronic navigation system de
 
 ## Hardware Setup
 
-![Demo of Navigation Aid](Labelled After Wearing.jpg)
 <p align="center">
-  <img src="Labelled After Wearing.jpg" alt="Image 1" width="45%"/>
+  <img src="Labelled Front Image.jpg" alt="Image 1" width="45%"/>
   <img src="HardwareConfiguration.jpg" alt="Image 2" width="45%"/>
 </p>
-
-![Demo of Navigation Aid](HardwareConfiguration.jpg)
-
-<p align="left">
-  <img src="Labelled Front Image.jpg" alt="Image 1" width="45%"/>
-</p>
-
 
 ---
 
