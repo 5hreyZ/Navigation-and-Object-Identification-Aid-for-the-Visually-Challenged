@@ -2,8 +2,7 @@
 
 ![Demo of Navigation Aid](Results_gif.gif)
 
-This project develops an affordable, lightweight electronic navigation system designed to help visually impaired people travel independently.  
-The device is shaped like a pair of eyeglasses and incorporates **ultrasonic sensors** and **vibration motors** to provide spatial awareness of obstacles.
+This project develops an affordable, lightweight electronic navigation system designed to help visually impaired people travel independently. The device is shaped like a pair of eyeglasses and incorporates **ultrasonic sensors** and **vibration motors** to provide spatial awareness of obstacles.
 
 
 
@@ -17,10 +16,7 @@ The device is shaped like a pair of eyeglasses and incorporates **ultrasonic sen
   <img src="Labelled Front Image.jpg" alt="Image 2" width="45%"/>
 </p>
 
-<p align="center">
-  <img src="Navigation_BlockDiagram.jpg" alt="Image 1" width="45%"/>
-  <img src="ObjectDetection_BlockDiagram.jpg" alt="Image 2" width="45%"/>
-</p>
+
 ---
 
 ## Key Features
@@ -33,9 +29,10 @@ The device is shaped like a pair of eyeglasses and incorporates **ultrasonic sen
    - A **TensorFlow-based model** processes this video in real time to identify objects ahead.  
    - Identified objects are announced to the user through **earphones**, aiding object search and recognition.  
 
-3. **Processing**  
-   - Powered by a **Raspberry Pi 3B+**, which handles both sensor data and real-time image recognition.
-
+<p align="center">
+  <img src="Navigation_BlockDiagram.jpg" alt="Image 1" width="45%"/>
+  <img src="ObjectDetection_BlockDiagram.jpg" alt="Image 2" width="45%"/>
+</p>
 ---
 
 ## Technology Stack
