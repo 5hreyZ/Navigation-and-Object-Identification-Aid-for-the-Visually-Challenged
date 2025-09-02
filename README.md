@@ -1,7 +1,7 @@
 # Navigation-and-Object-Identification-Aid-for-the-Visually-Challenged  
-
+<p align="center">
 ![Demo of Navigation Aid](Results_gif.gif)
-
+</p>
 This project develops an affordable, lightweight electronic navigation system designed to help visually impaired people travel independently. The device is shaped like a pair of eyeglasses and incorporates **ultrasonic sensors** and **vibration motors** to provide spatial awareness of obstacles.
 
 
